@@ -1,9 +1,8 @@
 # Table of Contents
 
 
+- [Horizontal Responsive Width](#horizontal-responsive-width)
 - [Vertical Responsive Height](#vertical-responsive-height)
-- [Horizontal Responsive Width](#vertical-responsive-width)
-
 
 <p align='center'>
 <img width="100%" height="auto" src='https://www.geo-jobe.com/wp-content/uploads/2018/12/a114bcde3596d40684499375ee80eea3.gif' alt='/' />
